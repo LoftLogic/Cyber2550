@@ -1,7 +1,7 @@
-1. CY2550_FLAG_1{ftst45e3whi9x0vz8vmdeu0qcji58lna}
-2. CY2550_FLAG_2{zg9xcu83dg31k8lnpcvagwri76eeyzms}
-3. CY2550_FLAG_3{rframl9sh37u7jtgc75lbrvkobnyj642}
-4. CY2550_FLAG_4{oejru6tru97d7ufur0suk5vwxr2f42fb}
-5. CY2550_FLAG_5{3bxz0tm7iuw7cap4z5l4zmeunzo54ijg}
-6. CY2550_FLAG_6{hmjenbyjdlci3pnxc2lvwq9cgxg1vhem}
-7. CY2550_FLAG_7{ef5p1h04rw48dnq60q5k5dfu7ju1qak8}
+CY2550_FLAG_1{ftst45e3whi9x0vz8vmdeu0qcji58lna}
+CY2550_FLAG_2{zg9xcu83dg31k8lnpcvagwri76eeyzms}
+CY2550_FLAG_3{rframl9sh37u7jtgc75lbrvkobnyj642}
+CY2550_FLAG_4{oejru6tru97d7ufur0suk5vwxr2f42fb}
+CY2550_FLAG_5{3bxz0tm7iuw7cap4z5l4zmeunzo54ijg}
+CY2550_FLAG_6{hmjenbyjdlci3pnxc2lvwq9cgxg1vhem}
+CY2550_FLAG_7{ef5p1h04rw48dnq60q5k5dfu7ju1qak8}
